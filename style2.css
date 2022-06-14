@@ -36,3 +36,7 @@ body{
 #currentNumber{
     color:#fff
 }
+
+git submodule deinit -f -- Contador-introdu-JavaScript
+rm -rf .git/modules/Contador-introdu-JavaScript
+git rm -f Contador-introdu-JavaScript
