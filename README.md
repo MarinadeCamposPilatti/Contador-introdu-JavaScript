@@ -3,8 +3,10 @@ Segunda dica proposta pela professora Stephany Nusch( https://github.com/stebsnu
 
 Resultado ao clicar o botão "+":
 
-![resultado3 1](https://user-images.githubusercontent.com/104401610/173735980-332cc65a-fcca-4ffc-b9c6-349ecd10f1c5.png)
+![resultado3 1](https://user-images.githubusercontent.com/104401610/173736416-7466fe7d-99b2-4c10-b377-741290a3a4b6.png)
+
 
 Resultado ao clicar o botão "-":
 
-![resultado3 2](https://user-images.githubusercontent.com/104401610/173736022-e26fd4f5-d22c-4b8c-9e09-f88cee82c4e7.png)
+![resultado3 2](https://user-images.githubusercontent.com/104401610/173736400-dd7ce33b-40ff-44f5-81b4-7631dd5de340.png)
+
